@@ -21,7 +21,7 @@ Tutorials for commonly used programs in the lab, written for _general use_.
 - [BUSCO](https://github.com/lizardroom/BUSCO)
 - [Phylogenetic analyses](https://github.com/lizardroom/Phylogenetics_Tutorial)
 - [SnpEff](https://github.com/lizardroom/SnpEff/tree/main)
-- [Assembly stat graph](https://github.com/lizardroom/code_for_geneva_assembly_graph)
+- [Anole assembly stats graph](https://github.com/lizardroom/code_for_geneva_assembly_graph)
 
 ## Protocols
 Common protocols used in the lab.

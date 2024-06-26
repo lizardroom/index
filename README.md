@@ -16,7 +16,7 @@ The resources that are of use to everyone in the lab.
 - [Transferring data to amarel using Globus](https://github.com/lizardroom/Globus-Personal-Connect)
 - [Filling out IUCUC forms](https://github.com/lizardroom/IACUC-Adenovirus)
 
-## General Program Tutorials (not project repositories!)
+## Program Tutorials (not project repositories!)
 Tutorials for commonly used programs in the lab, written for _general use_.
 - [BUSCO](https://github.com/lizardroom/BUSCO)
 - [Phylogenetic analyses](https://github.com/lizardroom/Phylogenetics_Tutorial)

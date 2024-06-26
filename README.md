@@ -1,5 +1,5 @@
-# Lizardroom Index
-This repo will serve as the index for the lizard room github page. 
+# LizardRoom Index
+This repo will serve as the index for the LizardRoom GitHub page. 
 
 ## Getting Started in the Lab
 The resources for getting started in the GenevaLab.
@@ -20,6 +20,7 @@ The resources that are of use to everyone in the lab.
 Tutorials for commonly used programs in the lab, written for _general use_.
 - [BUSCO](https://github.com/lizardroom/BUSCO)
 - [Phylogenetic analyses](https://github.com/lizardroom/Phylogenetics_Tutorial)
+- [SnpEff](https://github.com/lizardroom/SnpEff/tree/main)
 - [Assembly stat graph](https://github.com/lizardroom/code_for_geneva_assembly_graph)
 
 ## Protocols
